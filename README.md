@@ -1,8 +1,6 @@
 # JAVA_Terminal_Emullator
 a terminal emulator implemented in Java Swing - runs under Windows and Linux
 
-serial terminal emulator implemented in Java Swing
-
 1. install Oracle Netbeans 
 2. run NetBeans, click File > Open Project and open the *jSwingTerminalOptions* project
 3. click Run > Run Project (swing Terminal)
